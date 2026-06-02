@@ -5,4 +5,8 @@ id_objeto,titulo,destacado,creador,descripcion,url_fuente,periodo,año,medio_gen
 detail-of-lanzon,Detail of Lanzon Stela (photo),,,,https://aboswell-andes.github.io/test/iiif/objects/479cf48c4bff7a467352016ad1af91a0a0cf326a/manifest.json,,,,,,,,Detail of Lanzon Stela (photo)
 lanzon,Lanzon,,,Photograph of Lanzon stela at Chavin de Huantar,https://aboswell-andes.github.io/test/iiif/objects/9ad38092fbedc3b39b0a76617d8bb857acfb6a4a/manifest.json,,,,,,,,Lanzon
 telar-placeholder,Telar placeholder,,Adelaida Ávila,,,,2026,,,,,,Telar placeholder
+vessel-angle,vessel angle,,,,,,,,,,,,vessel angle
+vessel-back,vessel back,,,,,,,,,,,,vessel back
 vessel-front,vessel front,,,,,,,,,,,,vessel front
+vessel-left,vessel left,,,,,,,,,,,,vessel left
+vessel-right,vessel right,,,,,,,,,,,,vessel right
