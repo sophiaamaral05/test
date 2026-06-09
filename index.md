@@ -1,8 +1,7 @@
 ---
 layout: index
 title: Home
+stories_heading: "Our Story"
 ---
 
-##.
-
-***Note:** To remove or replace this message, edit the `index.md` file in your repository.*
+Hi! Welcome to our website! Keep scrolling, and click around to see more.
