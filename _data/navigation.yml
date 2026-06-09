@@ -1,4 +1,7 @@
 menu:
+  - title_en: "References"
+    titulo_es: "References"
+    url: /references/
   - title_en: "Objects"
     titulo_es: "Objects"
     url: /objects/
