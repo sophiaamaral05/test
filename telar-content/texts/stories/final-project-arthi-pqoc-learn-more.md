@@ -1,5 +1,6 @@
 ---
-title: "Learn more"
+title: "Learn More"
 ---
 
-Maize holds significant importance in Moche culture, depicted in their ceremonial artifacts. The special skill of creating ceramic vessels represents a significant practice of its own, and maize is depicted in various forms of Moche jars, either alone or alongside animals such as birds, frogs, fish, and rodents. This highlights the Moche's cultural reverence for maize as a vital source of sustenance and a symbol of life within their society.
+Evidence of Moche ceramics dates back to around 100 CE to 800 CE. The region's geography heavily shaped its emergence, as river valleys provided fertile land in an otherwise arid coastal environment. Over time, their influence expanded up and down the coast with Moche art styles appearing in a range of locations, though scholars debate whether this represented a unified state or a collection of related regional states sharing a common artistic and religious tradition. That shared tradition is most visible in their ceramics. Moche potters produced stirrup-spout vessels ranging from remarkably realistic portrait heads to figures of animals and supernatural beings. This same iconography appears across their murals and fine metalwork, reinforcing the sense of a unified visual culture. It is within this rich ceramic tradition that the vessel being examined, dated to the Early Intermediate Period, can be understood. 
+
